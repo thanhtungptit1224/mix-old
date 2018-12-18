@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>CoderSonTrang - Spring Webflux Demo</h1>
+<h3>Student Book Show</h3>
+<a th:href="@{/logout}">Logout</a>
+<form th:action="@{/submitStudentInfo}" th:method="POST" th:object="${model}">
+    Your name: <span th:text="*{name}"></span>
+    <input type="hidden" th:field="*{name}"/>
+
+    <br/><br/>
+
+    Edit your list of books:
+    <input th:each="book,iterStat : *{books}" th:field="*{books[__${iterStat.index}__]}" />
+
+    <input type="submit" value="Submit"/>
+</form>
+
+<div style="background:#972F2C;color: #FFF;" th:text="${message}"></div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Spring Boot JPA/Hibernate Security Example</title>
+</head>
+<body>
+<!--Show messages when login error or logout success-->
+<h2 th:text="${errorLogin}"></h2>
+<h2 th:text="${logoutSuccess}"></h2>
+
+<!--Body-->
+<div style="text-align: center">
+    <form th:action="@{/loginHandler}" style="display: inline-block">
+        <table>
+            <tr>
+                <td>Username</td>
+                <td><input type="text" name="username"/></td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td><input type="password" name="password"/></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Sign In"/></td>
+                <td>Remember me <input type="checkbox" name="remember-me"/></td>
+            </tr>
+        </table>
+    </form>
+</div>
+</body>
+</html>
