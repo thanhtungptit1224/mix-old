@@ -19,8 +19,8 @@
 
     <dependencies>
         <!--<dependency>-->
-            <!--<groupId>org.springframework.boot</groupId>-->
-            <!--<artifactId>spring-boot-starter-web</artifactId>-->
+        <!--<groupId>org.springframework.boot</groupId>-->
+        <!--<artifactId>spring-boot-starter-web</artifactId>-->
         <!--</dependency>-->
 
         <dependency>
@@ -52,6 +52,13 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
+        </dependency>
+
+        <!--Integrate with Jedis and Lettuce-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-redis</artifactId>
+            <version>1.4.7.RELEASE</version>
         </dependency>
 
         <!--<dependency>-->
@@ -144,5 +151,9 @@
     <modules>
         <module>api</module>
         <module>common</module>
+        <module>model</module>
+        <module>service</module>
+        <module>repository</module>
+        <module>validate</module>
     </modules>
 </project>

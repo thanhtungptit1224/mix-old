@@ -2,29 +2,29 @@ package vn.com.thanhtungptit1224.util;
 
 import org.apache.logging.log4j.util.Strings;
 import org.springframework.http.HttpHeaders;
-import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.util.StringUtils;
 import org.springframework.web.server.ServerWebExchange;
-import reactor.core.publisher.Mono;
 
 public class HeaderUtils {
 
-    private HeaderUtils() {
-    }
+    private static final String BEARER = "Bearer ";
 
-    public static String getAuthorizationHeader(ServerWebExchange serverWebExchange) {
+    public static String getHeader(ServerWebExchange serverWebExchange, String header) {
         String token = serverWebExchange.getRequest()
                 .getHeaders()
-                .getFirst(HttpHeaders.AUTHORIZATION);
+                .getFirst(header);
 
         return StringUtils.isEmpty(token) ? Strings.EMPTY : token;
     }
 
-    public static Mono<String> getUserFromRequest(ServerWebExchange serverWebExchange) {
-        return serverWebExchange.getPrincipal()
-                .cast(UsernamePasswordAuthenticationToken.class)
-                .map(UsernamePasswordAuthenticationToken::getPrincipal)
-                .cast(String.class);
+    public static String getToken(ServerWebExchange serverWebExchange) {
+        String header = getHeader(serverWebExchange, HttpHeaders.AUTHORIZATION);
+        String token = "";
+
+        if (header.startsWith("Bearer "))
+            token = header.substring(BEARER.length());
+
+        return token;
     }
 
 }
