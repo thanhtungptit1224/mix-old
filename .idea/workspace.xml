@@ -1,142 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/WebConfiguration.java" line="71" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="db18ff41-8818-4207-b46a-d088b7215f2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_redis_1_4_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/oca/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/redis/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/LogoutController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/TrackingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/resources/ValidationMessages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/model.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/entity/Brother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/repository.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/LoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/LogoutService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/impl/LoginServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/impl/LogoutServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validate/src/main/java/vn/com/thanhtungptit1224/validation/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validate/src/main/java/vn/com/thanhtungptit1224/validation/Length.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validate/src/main/java/vn/com/thanhtungptit1224/validation/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validate/src/main/java/vn/com/thanhtungptit1224/validation/impl/EmailValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validate/src/main/java/vn/com/thanhtungptit1224/validation/impl/LengthValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validate/src/main/java/vn/com/thanhtungptit1224/validation/impl/PhoneValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validate/validate.iml" afterDir="false" />
+    <list default="true" id="ac626f4f-7e71-41ec-834b-38f5b9155d14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__vn_com_thanhtungptit1224_common_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/spring/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/spring/AppConfig2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/spring/BeanComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/spring/BeanOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/spring/BeanThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/spring/BeanTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/spring/SpringApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validate/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mix.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mix.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/api/api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/entity/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/AuthenticationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/AuthenticationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/CustomServerSecurityContextRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/CustomServerSecurityContextRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/JwtConverter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/ReactiveUserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/ReactiveUserDetailsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/datatype/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/TokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/provider/TokenProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/UserLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/entity/UserLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/WebConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/WebConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/AppController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/DemoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/config/AuthenticationManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/config/CustomServerSecurityContextRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/config/JwtConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/config/ReactiveUserDetailsServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/config/Role.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/config/TokenProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/config/UserLogin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/config/WebConfiguration$HeaderExchangeMatcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/config/WebConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/controller/AppController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/controller/AppController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/controller/DemoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/api/target/classes/vn/com/thanhtungptit1224/controller/LoginController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/vn/com/thanhtungptit1224/util/HeaderUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/vn/com/thanhtungptit1224/util/HeaderUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/vn/com/thanhtungptit1224/util/HeaderUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/vn/com/thanhtungptit1224/util/HeaderUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/model/model.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/repository.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service (1).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validate/validate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/validate/service.iml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/first-mod/target/" />
-    <ignored path="$PROJECT_DIR$/second-mod/target/" />
-    <ignored path="$PROJECT_DIR$/common/target/" />
     <ignored path="$PROJECT_DIR$/api/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
     <ignored path="$PROJECT_DIR$/model/target/" />
+    <ignored path="$PROJECT_DIR$/repository/target/" />
     <ignored path="$PROJECT_DIR$/service/target/" />
     <ignored path="$PROJECT_DIR$/validate/target/" />
-    <ignored path="$PROJECT_DIR$/repository/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/impl/LoginServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/SpringApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-              <folding>
-                <element signature="method#getTimeOut#0;class#LoginServiceImpl#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/redis/RedisConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/LoginController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/CustomServerSecurityContextRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="39" column="62" selection-start-line="39" selection-start-column="62" selection-end-line="39" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/LogoutController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,29 +61,73 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/provider/TokenProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1305">
-              <caret line="105" column="46" selection-start-line="105" selection-start-column="46" selection-end-line="105" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/validate/src/main/java/vn/com/thanhtungptit1224/validation/Phone.java">
+        <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/BeanComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="85">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#834#835#0" expanded="true" />
+                <element signature="e#860#861#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/WebConfiguration.java">
+        <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/BeanThree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/BeanTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/AppConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/AppConfig2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/BeanOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -176,28 +137,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
-        <option value="HTML File" />
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>modules</find>
-      <find>generated</find>
-      <find>BEARER</find>
-      <find>Principal</find>
-      <find>equals</find>
-      <find>Required.message</find>
-      <find>pass</find>
-      <find>JedisConnectionFactory</find>
-      <find>Invalid JWT signature.</find>
+      <find>one</find>
+      <find>bean one</find>
     </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -205,57 +153,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/api/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/WebConfiguration.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/HomeController.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/DemoController.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/vn/com/thanhtungptit1224/common/SecurityUtils.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/vn/com/thanhtungptit1224/SecurityUtils.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/LoginSuccessHandler.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/Role.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/HomeController.java" />
-        <option value="$PROJECT_DIR$/api/src/main/resources/templates/login.html" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/AuthenticationManager.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/vn/com/thanhtungptit1224/util/SecurityUtils.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/DemoController.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/JwtConverter.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/oca/Main.java" />
-        <option value="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/App.java" />
-        <option value="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/validate/Length.java" />
-        <option value="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/validation/impl/LengthValidator.java" />
-        <option value="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/validation/Length.java" />
-        <option value="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/validation/Phone.java" />
-        <option value="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/validation/impl/EmailValidator.java" />
-        <option value="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/validation/impl/PhoneValidator.java" />
-        <option value="$PROJECT_DIR$/api/src/main/resources/ValidationMessages.properties" />
-        <option value="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/validation/Email.java" />
-        <option value="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/entity/Student.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/WebConfiguration.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/CustomServerSecurityContextRepository.java" />
         <option value="$PROJECT_DIR$/repository/pom.xml" />
-        <option value="$PROJECT_DIR$/model/src/main/java/UserLogin.java" />
-        <option value="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/entity/UserLogin.java" />
         <option value="$PROJECT_DIR$/validate/pom.xml" />
-        <option value="$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/entity/Brother.java" />
-        <option value="$PROJECT_DIR$/model/pom.xml" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/TokenProvider.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/ReactiveUserDetailsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/api/pom.xml" />
-        <option value="$PROJECT_DIR$/service/pom.xml" />
         <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/AppController.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/vn/com/thanhtungptit1224/util/HeaderUtils.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/TrackingController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/LogoutController.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/impl/LogoutServiceImpl.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/LogoutService.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/CustomServerSecurityContextRepository.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/redis/RedisConfig.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/LoginService.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/impl/LoginServiceImpl.java" />
-        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/WebConfiguration.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/provider/TokenProvider.java" />
+        <option value="$PROJECT_DIR$/service/pom.xml" />
+        <option value="$PROJECT_DIR$/model/pom.xml" />
+        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/AppConfig2.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/Test.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/AppConfig.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/Application.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/spring/Test.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/spring/SpringApplication.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/spring/AppConfig.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/spring/BeanComponent.java" />
       </list>
     </option>
   </component>
@@ -266,11 +176,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
@@ -322,7 +229,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thanhtungptit1224" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mix" type="b2602c69:ProjectViewProjectNode" />
@@ -332,29 +239,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thanhtungptit1224" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mix" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thanhtungptit1224" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mix" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thanhtungptit1224" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mix" type="b2602c69:ProjectViewProjectNode" />
@@ -370,9 +254,7 @@
               <item name="mix" type="b2602c69:ProjectViewProjectNode" />
               <item name="mix" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mix" type="b2602c69:ProjectViewProjectNode" />
@@ -412,37 +294,35 @@
             <path>
               <item name="mix" type="b2602c69:ProjectViewProjectNode" />
               <item name="mix" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mix" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mix" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mix" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mix" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thanhtungptit1224" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mix" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mix" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mix" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mix" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mix" type="b2602c69:ProjectViewProjectNode" />
@@ -451,93 +331,38 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thanhtungptit1224" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mix" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thanhtungptit1224" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mix" type="b2602c69:ProjectViewProjectNode" />
               <item name="mix" type="462c0819:PsiDirectoryNode" />
               <item name="validate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mix" type="462c0819:PsiDirectoryNode" />
-              <item name="validate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mix" type="462c0819:PsiDirectoryNode" />
-              <item name="validate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mix" type="462c0819:PsiDirectoryNode" />
-              <item name="validate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mix" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mix" type="462c0819:PsiDirectoryNode" />
-              <item name="validate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="validation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="Jws&#9;PSI&#9;JAVA://io.jsonwebtoken.Jws&#10;Claim&#9;FILE&#9;jar:///Users/thanhtungptit1224/.m2/repository/io/jsonwebtoken/jjwt/0.7.0/jjwt-0.7.0.jar!/io/jsonwebtoken/Claims.class&#10;UserDetailsServiceAutoConfiguration&#9;FILE&#9;jar:///Users/thanhtungptit1224/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE.jar!/org/springframework/boot/autoconfigure/security/servlet/UserDetailsServiceAutoConfiguration.class&#10;SecurityAutoConfiguration&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.security.reactive.ReactiveSecurityAutoConfiguration" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547227795781" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/validate" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="vn.com.thanhtungptit1224" />
-      <recent name="utils" />
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/api/src/main/resources" />
+      <recent name="$PROJECT_DIR$/validate" />
+      <recent name="$PROJECT_DIR$/service" />
+      <recent name="$PROJECT_DIR$/repository" />
+      <recent name="$PROJECT_DIR$/model" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -552,13 +377,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Application">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca.Main" />
+  <component name="RunManager" selected="Application.SpringApplication">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vn.com.thanhtungptit1224.Application" />
       <module name="api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oca.*" />
+          <option name="PATTERN" value="spring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -566,22 +391,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="SpringApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring.SpringApplication" />
       <module name="api" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.com.thanhtungptit1224.Application" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Spring Boot.Application" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SpringApplication" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -590,147 +416,86 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="db18ff41-8818-4207-b46a-d088b7215f2a" name="Default Changelist" comment="" />
-      <created>1541651747606</created>
+      <changelist id="ac626f4f-7e71-41ec-834b-38f5b9155d14" name="Default Changelist" comment="" />
+      <created>1556344145445</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541651747606</updated>
-      <workItem from="1541651750916" duration="6522000" />
-      <workItem from="1542942914986" duration="263000" />
-      <workItem from="1543569754347" duration="134000" />
-      <workItem from="1543570510176" duration="7000" />
-      <workItem from="1543570614895" duration="368000" />
-      <workItem from="1543571727557" duration="3951000" />
-      <workItem from="1543592012196" duration="7886000" />
-      <workItem from="1543652050928" duration="1572000" />
-      <workItem from="1543820694229" duration="188000" />
-      <workItem from="1543937111893" duration="82000" />
-      <workItem from="1543937353773" duration="746000" />
-      <workItem from="1543938340773" duration="1000" />
-      <workItem from="1543938353867" duration="2916000" />
-      <workItem from="1543975528093" duration="752000" />
-      <workItem from="1544166323034" duration="14921000" />
-      <workItem from="1544183371615" duration="3582000" />
-      <workItem from="1544406019765" duration="39000" />
-      <workItem from="1544406580510" duration="6420000" />
-      <workItem from="1544457286454" duration="4496000" />
-      <workItem from="1544492666669" duration="394000" />
-      <workItem from="1545146503682" duration="494000" />
-      <workItem from="1545183679723" duration="41000" />
-      <workItem from="1545316145749" duration="2249000" />
-      <workItem from="1545406527855" duration="441000" />
-      <workItem from="1545454143623" duration="145000" />
-      <workItem from="1545754176843" duration="2266000" />
-      <workItem from="1545788881184" duration="183000" />
-      <workItem from="1545838211075" duration="1521000" />
-      <workItem from="1545875036497" duration="208000" />
-      <workItem from="1546054130225" duration="9875000" />
-      <workItem from="1546147579649" duration="1689000" />
-      <workItem from="1546394243212" duration="22000" />
-      <workItem from="1546401577901" duration="57000" />
-      <workItem from="1546401657595" duration="3259000" />
-      <workItem from="1546481968770" duration="8000" />
-      <workItem from="1546531963433" duration="1499000" />
-      <workItem from="1546568287489" duration="194000" />
-      <workItem from="1546851852442" duration="134000" />
-      <workItem from="1546881771751" duration="203000" />
-      <workItem from="1547001518768" duration="12350000" />
-      <workItem from="1547086490826" duration="21000" />
-      <workItem from="1547093760340" duration="435000" />
-      <workItem from="1547102179599" duration="10999000" />
-      <workItem from="1547190019013" duration="9039000" />
-      <workItem from="1547438191097" duration="31000" />
-      <workItem from="1547438260687" duration="58000" />
-      <workItem from="1547438590796" duration="465000" />
+      <updated>1556344145445</updated>
+      <workItem from="1556344150512" duration="4934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113126000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="4934000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31330472" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32956153" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37298638" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32961586" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.32961586" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32961586" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49928468" weight="0.32961586" />
-      <window_info anchor="bottom" id="Spring" order="12" weight="0.32961586" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32961586" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
-      <window_info anchor="right" id="Maven" order="10" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30472103" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37298638" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49928468" weight="0.32961586" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.32961586" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32961586" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49928468" weight="0.32961586" />
-      <window_info anchor="bottom" id="Spring" order="12" weight="0.32961586" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32961586" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
-      <window_info anchor="right" id="Maven" order="10" />
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2819063" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -739,465 +504,170 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/validate/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/entity/Brother.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="21" selection-start-line="15" selection-start-column="8" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/entity/UserLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE.jar!/org/springframework/data/redis/core/StringRedisTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/AuthenticationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.7.RELEASE/spring-security-core-5.0.7.RELEASE.jar!/org/springframework/security/core/context/SecurityContextImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar!/org/apache/commons/lang3/StringUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <element signature="e#850#851#0" expanded="true" />
-            <element signature="e#903#904#0" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0.jar!/org/apache/logging/log4j/util/Strings.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE.jar!/org/springframework/util/StringUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-          <folding>
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1103#1104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/http/HttpHeaders.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/TrackingController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/JwtConverter.java" />
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/DemoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="48" column="36" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE.jar!/org/springframework/data/redis/core/ListOperations.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/AppController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/security/Principal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.7.RELEASE/spring-security-core-5.0.7.RELEASE.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="64" lean-forward="true" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.7.RELEASE/spring-security-core-5.0.7.RELEASE.jar!/org/springframework/security/authentication/AbstractAuthenticationToken.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="19" column="69" lean-forward="true" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.7.RELEASE/spring-security-core-5.0.7.RELEASE.jar!/org/springframework/security/core/Authentication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.7.RELEASE/spring-security-core-5.0.7.RELEASE.jar!/org/springframework/security/core/CredentialsContainer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.7.RELEASE/spring-security-core-5.0.7.RELEASE.jar!/org/springframework/security/core/userdetails/User.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/vn/com/thanhtungptit1224/util/HeaderUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/jsonwebtoken/jjwt/0.7.0/jjwt-0.7.0.jar!/io/jsonwebtoken/SignatureAlgorithm.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.7.RELEASE/spring-security-core-5.0.7.RELEASE.jar!/org/springframework/security/core/GrantedAuthority.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.7.RELEASE/spring-security-core-5.0.7.RELEASE.jar!/org/springframework/security/core/authority/SimpleGrantedAuthority.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/LogoutService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/ReactiveUserDetailsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.0.7.RELEASE/spring-security-web-5.0.7.RELEASE.jar!/org/springframework/security/web/server/context/ReactorContextWebFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/impl/LogoutServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="788" column="29" selection-start-line="788" selection-start-column="29" selection-end-line="788" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="65" column="10" selection-start-line="65" selection-start-column="10" selection-end-line="65" selection-end-column="10" />
-          <folding>
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1693#1694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
-          <folding>
-            <element signature="e#1598#1599#0" expanded="true" />
-            <element signature="e#1628#1629#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.7.RELEASE/spring-security-core-5.0.7.RELEASE.jar!/org/springframework/security/core/AuthenticationException.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding>
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.7.RELEASE/spring-security-core-5.0.7.RELEASE.jar!/org/springframework/security/authentication/BadCredentialsException.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4335">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE.jar!/org/springframework/data/redis/core/ValueOperations.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE.jar!/org/springframework/data/redis/core/DefaultValueOperations.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding>
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="777" column="43" selection-start-line="777" selection-start-column="43" selection-end-line="777" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/LoginService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/service/impl/LoginServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-          <folding>
-            <element signature="method#getTimeOut#0;class#LoginServiceImpl#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/redis/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="136">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/CustomServerSecurityContextRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="39" column="62" selection-start-line="39" selection-start-column="62" selection-end-line="39" selection-end-column="62" />
+        <state relative-caret-position="204">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/controller/LogoutController.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="252">
+          <caret line="140" column="52" selection-start-line="140" selection-start-column="52" selection-end-line="140" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/provider/TokenProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repository/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/vn/com/thanhtungptit1224/entity/Brother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/vn/com/thanhtungptit1224/provider/TokenProvider.java">
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/BeanThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="105" column="46" selection-start-line="105" selection-start-column="46" selection-end-line="105" selection-end-column="46" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/config/security/WebConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/BeanTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/validate/src/main/java/vn/com/thanhtungptit1224/validation/Phone.java">
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/BeanComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="395">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/vn/com/thanhtungptit1224/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/AppConfig2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/SpringApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/BeanOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/main/java/spring/BeanComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
+      <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>api</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
