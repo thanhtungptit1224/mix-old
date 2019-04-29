@@ -1,14 +1,10 @@
 package spring;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
-import spring.BeanOne;
-import spring.BeanTwo;
 
 @Component
 public class BeanComponent {
-
 
 //    private BeanOne one;
 //
@@ -26,23 +22,22 @@ public class BeanComponent {
 //        one.doSt();
 //    }
 
-
     private BeanTwo two;
 
     public BeanComponent() {
-        System.out.println("initialized bean test");
+        System.out.println("initialized bean component");
     }
 
     @Autowired
     public BeanComponent(BeanTwo two) {
         this.two = two;
-        System.out.println("Inject by constructor------------------------------------");
+        System.out.println("Inject bean component by constructor------------------------------------");
     }
 
 
     public void setTwo(BeanTwo two) {
         this.two = two;
-        System.out.println("Inject by type------------------------------------");
+        System.out.println("Inject bean component by type------------------------------------");
     }
 
     public void show() {

@@ -4,7 +4,7 @@ import org.springframework.context.annotation.*;
 
 @Configuration
 @ComponentScan(basePackages = {"spring"})
-//@Import(value = {AppConfig2.class})
+@Import(value = {AppConfig2.class})
 //@ImportResource(locations={
 //        "classpath:/com/boraji/tutorial/spring/config/configB.xml"
 //})
