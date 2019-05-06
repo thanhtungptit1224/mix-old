@@ -5,8 +5,8 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class AppConfig2 {
-    @Bean("beanTwo")
-    public BeanTwo getBeanTwo() {
-        return new BeanTwo();
-    }
+//    @Bean("beanTwo")
+//    public BeanTwo getBeanTwo() {
+//        return new BeanTwo();
+//    }
 }
