@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 @Configuration
-@EnableScheduling
+//@EnableScheduling
 public class TaskConfig {
 
     /**

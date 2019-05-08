@@ -14,17 +14,17 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
  * - Ví dụ trong TH này: BeanComponent -> BeanService -> AppConfig2(BeanTwo)
  * Sau đó sẽ quay trở lại khởi tạo bean trong AppConfig
  * */
-public class SpringApplication {
-    public static void main(String[] args) {
-        ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
-        BeanComponent bean = context.getBean(BeanComponent.class);
-        bean.show();
-    }
-}
-
-//@SpringBootApplication
 //public class SpringApplication {
 //    public static void main(String[] args) {
-//        org.springframework.boot.SpringApplication.run(SpringApplication.class, args);
+//        ApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
+//        BeanComponent bean = context.getBean(BeanComponent.class);
+//        bean.show();
 //    }
 //}
+
+@SpringBootApplication
+public class SpringApplication {
+    public static void main(String[] args) {
+        org.springframework.boot.SpringApplication.run(SpringApplication.class, args);
+    }
+}

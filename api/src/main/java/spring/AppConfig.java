@@ -1,6 +1,7 @@
 package spring;
 
 import org.springframework.context.annotation.*;
+import org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler;
 
 @Configuration
 @ComponentScan(basePackages = {"spring"})
@@ -30,4 +31,5 @@ public class AppConfig {
 //    public BeanComponent getBeanBeanComponent() {
 //        return new BeanComponent(getBeanTwo());
 //    }
+
 }

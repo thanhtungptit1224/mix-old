@@ -2,19 +2,34 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:task="http://www.springframework.org/schema/task"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
        http://www.springframework.org/schema/beans/spring-beans.xsd
        http://www.springframework.org/schema/context
-       http://www.springframework.org/schema/context/spring-context.xsd">
+       http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/task
+       http://www.springframework.org/schema/task/spring-task-3.0.xsd">
 
-    <!-- <context:component-scan base-package="com.in28minutes.spring.basics"/> -->
+
+    <context:annotation-config/><!--Cho phép config bằng annotation-->
+    <context:component-scan base-package="spring"/><!--Scan các bean trên pkg
+    Nếu không có context:annotation-config thì scan cũng không nhận ra đó là bean
+    May thay component-scan đã bao gồm annotation-config-->
 
     <bean id="beanTwo" class="spring.BeanTwo">
-
     </bean>
 
     <bean id="xmlStringBean2" class="java.lang.String">
         <constructor-arg value="stringBean2"/>
     </bean>
 
+    <!--Để sử dụng task config in xml. Cần Ctrl F, search task, import các namespace phía trên-->
+    <task:annotation-driven/><!--Cho phép sử dụng annotation
+    Tương đương với việc sử dụng @EnableScheduling or @EnableAsync
+    Chỉ cần sử dụng một trong hai cách-->
+
+    <task:scheduled-tasks scheduler="myScheduler"><!--Cho phép execute function cụ thể. Tương đương với @Scheduled-->
+        <task:scheduled ref="taskXml" method="show" cron = "0/5 * * * * *"/>
+    </task:scheduled-tasks>
+    <task:scheduler id="myScheduler" pool-size="5" />
 </beans>
